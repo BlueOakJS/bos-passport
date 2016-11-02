@@ -1,0 +1,19 @@
+{
+  "name": "bos-passport",
+  "version": "1.0.0",
+  "description": "enables integration of passport into blueoak-server",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BlueOakJS/bos-passport.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.5",
+    "passport": "^0.3.2"
+  }
+}
